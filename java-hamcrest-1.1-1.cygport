@@ -1,0 +1,4 @@
+inherit ant
+
+
+SRC_URI="http://hamcrest.googlecode.com/files/${ORIG_PN}-${PV}.tgz"
